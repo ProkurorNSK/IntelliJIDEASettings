@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[CodinGame] - ...\src\JavaBook\VerySimpleChatServer.java'" />
-    <option name="defaultScopeName" value="File '[CodinGame] - ...\src\JavaBook\VerySimpleChatServer.java'" />
-    <option name="SEARCH_SCOPE" value="File '[CodinGame] - ...\src\JavaBook\VerySimpleChatServer.java'" />
+    <option name="customScope" value="Project 'Lesson7'" />
+    <option name="defaultScopeName" value="Project 'Lesson7'" />
+    <option name="SEARCH_SCOPE" value="Project 'Lesson7'" />
   </component>
 </application>
