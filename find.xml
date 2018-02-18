@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Args'" />
-    <option name="defaultScopeName" value="Project 'Args'" />
+    <option name="customScope" value="Project 'SortFile'" />
+    <option name="defaultScopeName" value="Project 'SortFile'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'Args'" />
+    <option name="SEARCH_SCOPE" value="Project 'SortFile'" />
   </component>
 </application>
