@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'germes'" />
-    <option name="defaultScopeName" value="Project 'germes'" />
+    <option name="customScope" value="File '...\germes-persistence\src\main\java\ru\prokurornsk\germes\app\persistence\repository\hibernate\HibernateCityRepository.java [ru.prokurornsk.germes-persistence.main]'" />
+    <option name="defaultScopeName" value="File '...\germes-persistence\src\main\java\ru\prokurornsk\germes\app\persistence\repository\hibernate\HibernateCityRepository.java [ru.prokurornsk.germes-persistence.main]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'germes'" />
+    <option name="SEARCH_SCOPE" value="File '...\germes-persistence\src\main\java\ru\prokurornsk\germes\app\persistence\repository\hibernate\HibernateCityRepository.java [ru.prokurornsk.germes-persistence.main]'" />
   </component>
 </application>
