@@ -1,0 +1,19 @@
+<application>
+  <component name="CoursesStorage">
+    <courses>
+      <course>
+        <option name="courseMode" value="Study" />
+        <option name="description" value="Neural networks: what a trend nowadays! It might seem like a kind of magic, but upon completing this project, you’ll see that you are already competent enough to build your own neural network. Your network will be able to recognize numeric data, allowing you to digitize checks and even figure out some captchas. If you aren’t too intimidated by words like “sigmoid” or “backpropagation”, click select and let’s get started!&lt;br/&gt;&lt;br/&gt;Learn more at &lt;a href=&quot;https://hyperskill.org&quot;&gt;https://hyperskill.org/projects/51&lt;/a&gt;" />
+        <option name="humanLanguage" value="английский" />
+        <option name="id" value="51" />
+        <option name="location" value="$USER_HOME$/Documents/Programming/Digit Recognition" />
+        <option name="name" value="Digit Recognition" />
+        <option name="programmingLanguage" value="JAVA" />
+        <option name="programmingLanguageVersion" value="11" />
+        <option name="tasksSolved" value="2" />
+        <option name="tasksTotal" value="6" />
+        <option name="type" value="Hyperskill" />
+      </course>
+    </courses>
+  </component>
+</application>
